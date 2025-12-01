@@ -1,0 +1,16 @@
+# 爬蟲與網路請求相關
+requests
+lxml
+beautifulsoup4
+
+# 資料處理與輸出相關
+pandas
+numpy
+XlsxWriter
+
+# 驗證碼識別相關
+ddddocr
+
+# 圖像處理 (ddddocr 依賴於它，最好明確列出)
+opencv-python
+streamlit  # 這是 Streamlit 框架本身
